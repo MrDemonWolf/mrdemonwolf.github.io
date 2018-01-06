@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mrdemonwolf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mrdemonwolf.github.io
+  * I am mrdemonwolf (https://keybase.io/mrdemonwolf) on keybase.
+  * I have a public key with fingerprint 2A22 FBF4 C056 8401 C959  50FB 3594 2736 3FB7 EE77
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019b4fefd427503d06dfc5f2c00dccae189cbbe799281d75bba9acf9cf445ba0950a",
+      "fingerprint": "2a22fbf4c0568401c95950fb359427363fb7ee77",
+      "host": "keybase.io",
+      "key_id": "359427363fb7ee77",
+      "kid": "01019b4fefd427503d06dfc5f2c00dccae189cbbe799281d75bba9acf9cf445ba0950a",
+      "uid": "cf1868d3469c3817447973f9570abf19",
+      "username": "mrdemonwolf"
+    },
+    "service": {
+      "hostname": "mrdemonwolf.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515277123,
+  "expire_in": 157680000,
+  "prev": "9424241d2f16b6fb420a2cdfdecc4252620a780185cb4463a5242b8788ad838c",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSBVBGMfPqSyShAhCKumyYBmJ7m12dk8YhEGSLxVZYeFh53bc1LPH
+PXu00owu2s0grNCoTFBDi3rIoosvJmJ3ouhGShRZKvaSQkRaNmv1VI/NPAzfzO//
+/y5MV8JkX7x/m37tak3WgN//4HZTzJe7LjuzTEA22SEEyoQCOnHQQkKjbrDAIkJA
+ECVRMpDKKCOqDIGoEFEjDAMmY1EkGJtU0g2MEIWGIesSgQAh0zAxMzBTVYBM0QCi
+KaQKzAqHqBNxrLDLbWVTlhliKhaBpquihA3AOYYUYPA0iqYwBCmFkAvz7ain4MUh
+M0rTLJvf8SA4Ud4/+P9cd2zCDjNJ13SiqJqBFV2CqgoNqDADQNFETDI8MEqdsFlE
+OV3kEFpkh0vtQibsShX4Q4mFqTdbr5m/obSQ5ebH0K/eIo7t2tgu5Ei+60aiAc/C
+3RHxNKUUBX+7BZEVJnymXFFCnahlh4WAxEnsWp69BCQgQyjJSqpAt0cshwYtjwBQ
+00W+vDy0hFvy+fEtEZlJGtIYUmXRlDFhhGKsykDWeAx1UdIBRqqqKSbgPNKhrptE
+V3QseP0Vh23urfI6zRD3jFqhsOnGHCrs6uzYOsXnj/dNjZvkfTZf/PSZf75ge/m0
+8e0La9eb4x/6Z31+2D4692blrRU9a+uXajnf0vH37Cvt1ZnlaXHOgbrnJ2r7x5IW
+HVndHU0ofpde2rivKtB37zRJ0lt2zh6ZUb82Z3pZU3Vnbn3VYM6q0wsOtVQ0VzzY
+a8Wnn+06RqtaP6m9dNni/IUnWzJefQfJP/rOzPePkNv7A482DR6ftrvg/ZqPe1Lg
+kZrYqbdJvScuLbmb1ipVb2hreLO6v/lO8tyMjmcpQ6/jcN9A8pNQ9/Dlyi7x9eOD
+jZvvJY/1HR6oeJF48GJX+aG89KOC9XLz9R8NQ7tT/KPLJ9/PysoLZPd+6TkPnq6c
+N/zl3I2NHXUvlRUDF9qKErc8nQO/9tT8BCqTTZQ=
+=gp50
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrdemonwolf
+
+==================================================================
